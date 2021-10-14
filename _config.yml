@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "최윤원"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Make a Wave"
   location         : "대한민국, 일산"
   email            : "yoonwon0216@gmail.com"
