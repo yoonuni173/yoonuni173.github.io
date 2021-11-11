@@ -18,6 +18,6 @@ https://platum.kr/wp-content/uploads/2020/08/we.jpg
 ---  
 ### ★ 온라인 콘서트
 [![online concert](/assets/images/online concert.jpg "더 자세한 내용을 원하시면 방문해 보세요
-")](https://biz.chosun.com/site/data/html_dir/2020/10/12/2020101202121.html)
+")](https://biz.chosun.com/site/data/html_dir/2020/10/12/2020101202121.html)  
 대면 콘서트가 불가능해지자, 온라인 플랫폼을 이용하여 콘서트를 진행한다. 
 일명 언택트 문화공연이 펼쳐지고 있다. 
