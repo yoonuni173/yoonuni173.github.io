@@ -11,9 +11,8 @@ layout: single
 예전처럼 편하게 뮤지컬을 관람할 수는 없지만 직접 뮤지컬을 관람할 수 있다는 것 자체가 큰 행운이다.  
 ---  
 ### ★ 문화 플랫폼
-![communnication][weverse]
-[weverse]:
-https://platum.kr/wp-content/uploads/2020/08/we.jpg
+![communnication][weverse]  
+[weverse]: https://platum.kr/wp-content/uploads/2020/08/we.jpg
 팬들과 대면으로 소통이 불가능해지자 위버스, 버블과 같은 온라인 문화 플랫폼이 활성화됨.  
 ---  
 ### ★ 온라인 콘서트
